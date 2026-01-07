@@ -135,7 +135,3 @@ The application includes comprehensive error handling for:
    - Check if the PDF is password-protected
    - Ensure the file is not corrupted
    - Try opening the file in a PDF reader first
-
-## License
-
-This project is open source and available under the MIT License.
